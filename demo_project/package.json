@@ -1,0 +1,13 @@
+{
+  "name": "demo-project",
+  "version": "1.0.0",
+  "description": "Sample project for DevHelper MCP testing",
+  "dependencies": {
+    "express": "^3.0.0",
+    "lodash": "^4.17.10",
+    "axios": "^0.19.0"
+  },
+  "devDependencies": {
+    "jest": "^26.0.0"
+  }
+}
