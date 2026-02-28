@@ -1,4 +1,3 @@
-Вот полное содержимое для файла `README.md`. Сохраните его как `README.md`.
 
 ```markdown
 # DevHelper MCP Server 🛠️
